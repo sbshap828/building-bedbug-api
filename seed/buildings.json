@@ -1,0 +1,898 @@
+[
+  {
+    "bldgadd": "101 Leonard Street",   
+    "block": "00171",
+    "lot": "7503",
+    "mdr": "144022",
+    "bin": "1001838",
+    "communitybd": "1",
+    "photo": "https://halstead.boardpackager.com/default_bldg_thumb.jpg"
+  },
+  {
+    "bldgname": "The Park Belvedere Condominium",
+    "bldgadd": "101 West 79th Street",
+    
+    "block": "01210",
+    "lot": "7501",
+    "mdr": "140340",
+    "bin": "1031798",
+    "communitybd": "7",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53778/4721492.jpg "
+  },
+  {
+    "bldgname": "101 West 87th Street Condominium",
+    "bldgadd": "101 West 87th Street",
+    
+    "block": "01218",
+    "lot": "7501",
+    "mdr": "140518",
+    "bin": "1032246",
+    "communitybd": "7",
+    "photo": "https://prod-assets.boardpackager.com/building_docs/114/57426/Screen_Shot_2022-08-17_at_2-8957b3f4-93e1-4e2d-93fc-2d3d01e8fc5d.png"
+  },
+  {
+    "bldgname": "The 104 Wooster Street Condominium",
+    "bldgadd": "104 Wooster Street",         "block": "00500",
+    "lot": "7504",
+    "mdr": "141713",
+    "bin": "1007638",
+    "communitybd": "2",
+    "photo": "https://prod-assets.boardpackager.com/building_docs/107/53781/26031_l.jpg"
+  },
+  {
+    "bldgname": "105 EAST 15TH STREET CORP.",
+    "bldgadd": "105 East 15th St",         "block": "00871",
+    "lot": "0007",
+    "mdr": "134910",
+    "bin": "1017789",
+    "communitybd": "5",
+    "photo": "https://prod-assets.boardpackager.com/building_docs/114/57429/1522634146505tc5v65jnf55eb14d5eb7237c5452f0d5db3d69537-1b89aa71-74b6-41b5-a62f-fbb6e30905a7.jpg"
+  },
+  {
+    "bldgname": "105 WEST 13TH CORP.",
+    "bldgadd": "105 West 13th Street",
+    "bldgno": "105W",
+    "block": "00609",
+    "lot": "0047",
+    "mdr": "138204",
+    "bin": "1010653",
+    "communitybd": "2",
+    "photo": "https://prod-assets.boardpackager.com/building_docs/114/57434/09e70825316289c9ea0c5d84152fc1e8-se_extra_large_1500_800-dc17535c-e75e-4176-9eec-a5d4fe3ddb4b.jpg"
+  },
+  {
+    "bldgname": "106 EAST 85TH STREET TENANTS CORP.",
+    "bldgadd": "106 E 85th St",         "block": "01513",
+    "lot": "0066",
+    "mdr": "115484",
+    "bin": "1047696",
+    "communitybd": "8",
+    "photo": "https://prod-assets.boardpackager.com/building_docs/107/53785/960_l.jpg"
+  },
+  {
+    "bldgname": "The One Ten Third Condominiums",
+    "bldgadd": "108-112 Third Avenue",
+    "block": "00559",
+    "lot": "7501",
+    "mdr": "143019",
+    "bin": "1009082",
+    "communitybd": "3",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53792/59669_l.jpg "
+  },
+  {
+    "bldgname": "1082 PARK AVENUE CORPORATION",
+    "bldgadd": "1082 Park Ave",
+    "block": "01500",
+    "lot": "7501",
+    "mdr": "139456",
+    "bin": "1046955",
+    "communitybd": "8",
+    "photo": "https://prod-assets.boardpackager.com/building_docs/107/53786/3587_l.jpg"
+  },
+  {
+    "bldgname": "11-69 Owners Corp.",
+    "bldgadd": "11 West 69th Street",
+    "block": "01122",
+    "lot": "0023",
+    "mdr": "125142",
+    "bin": "1028506",
+    "communitybd": "7",
+    "photo": "https://photos.zillowstatic.com/fp/f24ed3e893d506afbdf6dd785e5db15b-se_large_800_400.webp"
+  },
+  {
+    "bldgname": "110 CENTRAL PARK SOUTH CORP.",
+    "bldgadd": "110 Central Park South",
+    "block": "01011",
+    "lot": "0038",
+    "mdr": "136094",
+    "bin": "1023756",
+    "communitybd": "5",
+    "photo": "https://prod-assets.boardpackager.com/building_docs/107/53789/54380_l.jpg"
+  },
+  {
+    "bldgname": "110 CONDOMINIUM",
+    "bldgadd": "110 East 87th Street",
+    "block": "01515",
+    "lot": "7501",
+    "mdr": "101475",
+    "bin": "1047972",
+    "communitybd": "8",
+    "photo": "https://prod-assets.boardpackager.com/building_docs/114/57428/Screen_Shot_2022-08-17_at_2-3e41fea3-e75a-4779-9506-0f380e64d824.png"
+  },
+  {
+    "bldgname": "115 E. 86 OWNERS INC.",
+    "bldgadd": "115 East 86th Street",
+    "block": "01515",
+    "lot": "0008",
+    "mdr": "107550",
+    "bin": "1047953",
+    "communitybd": "8",
+    "photo": "https://prod-assets.boardpackager.com/building_docs/107/53793/575_l.jpg"
+  },
+  {
+    "bldgname": "11737 OWNERS CORP.",
+    "bldgadd": "117 East 37th Street",
+    "block": "00893",
+    "lot": "0014",
+    "mdr": "136499",
+    "bin": "1019086",
+    "communitybd": "6",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53794/2948_l.jpg "
+  },
+  {
+    "bldgname": "1172 CORPORATION",
+    "bldgadd": "1172 Park Avenue",
+    "block": "01504",
+    "lot": "0040",
+    "mdr": "107127",
+    "bin": "1047075",
+    "communitybd": "8",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53796/41612483.jpg "
+  },
+  {
+    "bldgname": "120 EAST 83RD OWNERS CORP.",
+    "bldgadd": "120 E 83rd Street",
+    "bldgno": "120E",
+    "block": "01511",
+    "lot": "0062",
+    "mdr": "100429",
+    "bin": "1047632",
+    "communitybd": "8",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/24/12175/32606888.jpg "
+  },
+  {
+    "bldgname": "Park Avenue Court",
+    "bldgadd": "120 East 87th Street",
+    "block": "01515",
+    "lot": "7502",
+    "mdr": "141050",
+    "bin": "1047955",
+    "communitybd": "8",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53797/8768_l.jpg "
+  },
+  {
+    "bldgname": "123 E. 37 ST OWNERS CORP.",
+    "bldgadd": "123 E 37th Street",
+    "block": "00893",
+    "lot": "0017",
+    "mdr": "113358",
+    "bin": "1019088",
+    "communitybd": "6",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53799/1882_l.jpg "
+  },
+  {
+    "bldgname": "Citizen Condominium",
+    "bldgadd": "124 West 23rd Street",
+    "block": "00798",
+    "lot": "7507",
+    "mdr": "143663",
+    "bin": "1088888",
+    "communitybd": "4",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53800/83104_l.jpg "
+  },
+  {
+    "bldgname": "THE 125 WEST 22ND STREET CONDOMINIUM",
+    "bldgadd": "125 West 22nd Street",
+    "block": "00798",
+    "lot": "7505",
+    "mdr": "143026",
+    "bin": "1087724",
+    "communitybd": "4",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53801/58747_l.jpg "
+  },
+  {
+    "bldgname": "CARNEGIE HILL 90TH STREET",
+    "bldgadd": "1261 Madison Avenue",
+    "block": "01502",
+    "lot": "0020",
+    "mdr": "120108",
+    "bin": "1046984",
+    "communitybd": "8",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/114/57425/1261_Madison_Building_Photo-75777ff1-7eb0-45f5-a4aa-ad703e0de321.jpg "
+  },
+  {
+    "bldgname": "CHELSEA HOUSE",
+    "bldgadd": "130 West 19th St",
+    "block": "00794",
+    "lot": "7501",
+    "mdr": "142774",
+    "bin": "1087501",
+    "communitybd": "4",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53802/56496_l.jpg "
+  },
+  {
+    "bldgname": "PRIMA CONDOMINIUM",
+    "bldgadd": "130 West 20th Street",
+    "block": "00795",
+    "lot": "7502",
+    "mdr": "143258",
+    "bin": "1014736",
+    "communitybd": "4",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53803/65861_l.jpg "
+  },
+  {
+    "bldgname": "The Touraine Condominium",
+    "bldgadd": "132A East 65 Street",
+    "block": "01399",
+    "lot": "7502",
+    "mdr": "143850",
+    "bin": "1089700",
+    "communitybd": "8",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53804/83113_l.jpg "
+  },
+  {
+    "bldgname": "THE 133 WEST 22ND STREET CONDOMINIUM",
+    "bldgadd": "133 West 22nd Street",
+    "block": "00798",
+    "lot": "7506",
+    "mdr": "143137",
+    "bin": "1087723",
+    "communitybd": "4",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53805/9590_l.jpg "
+  },
+  {
+    "bldgname": "13539 OWNERS CORP.",
+    "bldgadd": "135 East 39 Street",
+    "bldgno": "135E",
+    "block": "00895",
+    "lot": "0031",
+    "mdr": "117364",
+    "bin": "1019480",
+    "communitybd": "6",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53938/199869899.jpg "
+  },
+  {
+    "bldgname": "136 EAST 36TH STREET APARTMENTS CORP.",
+    "bldgadd": "136 East 36th Street",
+    "block": "00891",
+    "lot": "0066",
+    "mdr": "120775",
+    "bin": "1018924",
+    "communitybd": "6",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53806/501_l.jpg "
+  },
+  {
+    "bldgname": "137 EAST 66TH STREET INC.",
+    "bldgadd": "137 East 66th Street",
+    "block": "01401",
+    "lot": "0027",
+    "mdr": "122817",
+    "bin": "1042462",
+    "communitybd": "8",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53807/762_l.jpg "
+  },
+  {
+    "bldgname": "1399 Park Avenue Condominium",
+    "bldgadd": "1399 Park Avenue",
+    "block": "01631",
+    "lot": "7502",
+    "mdr": "144788",
+    "bin": "1089853",
+    "communitybd": "11",
+    "photo": "https://photos.zillowstatic.com/fp/f24ed3e893d506afbdf6dd785e5db15b-se_large_800_400.webp"
+  },
+  {
+    "bldgname": "The Memphis Downtown Condominium",
+    "bldgadd": "140 Charles Street",
+    "block": "00631",
+    "lot": "7502",
+    "mdr": "140377",
+    "bin": "1011761",
+    "communitybd": "2",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/108/54467/mem.jpg "
+  },
+  {
+    "bldgname": "140 WOOSTER LLC",
+    "bldgadd": "140 Wooster Street",
+    "block": "00514",
+    "lot": "0004",
+    "mdr": "140760",
+    "bin": "1007988",
+    "communitybd": "2",
+    "photo": "https://photos.zillowstatic.com/fp/f24ed3e893d506afbdf6dd785e5db15b-se_large_800_400.webp"
+  },
+  {
+    "bldgname": "142 WOOSTER LLC",
+    "bldgadd": "142 Wooster Street",
+    "block": "00514",
+    "lot": "0005",
+    "mdr": "140760",
+    "bin": "1007989",
+    "communitybd": "2",
+    "photo": "https://photos.zillowstatic.com/fp/f24ed3e893d506afbdf6dd785e5db15b-se_large_800_400.webp"
+  },
+  {
+    "bldgname": "1497 THIRD LLC",
+    "bldgadd": "1497 THIRD AVENUE",
+    "block": "01530",
+    "lot": "0004",
+    "mdr": "121823",
+    "bin": "1048726",
+    "communitybd": "8",
+    "photo": "https://photos.zillowstatic.com/fp/f24ed3e893d506afbdf6dd785e5db15b-se_large_800_400.webp"
+  },
+  {
+    "bldgname": "15 WEST 24 STREET CORP.",
+    "bldgadd": "15 W 24th Street",
+    "block": "00826",
+    "lot": "0029",
+    "mdr": "139837",
+    "bin": "1015600",
+    "communitybd": "5",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53951/24w15.01b.photo_.jpg "
+  },
+  {
+    "bldgname": "Central Park Studios",
+    "bldgadd": "15 West 67th Street",
+    "block": "01120",
+    "lot": "0022",
+    "mdr": "133538",
+    "bin": "1028241",
+    "communitybd": "7",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53808/94153651.jpg "
+  },
+  {
+    "bldgname": "15 WEST 84TH APARTMENT CORP.",
+    "bldgadd": "15 West 84th Street",
+    "block": "01198",
+    "lot": "0019",
+    "mdr": "101471",
+    "bin": "1031306",
+    "communitybd": "7",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/114/57450/15_West_84th_St-4e0cedc9-db8d-49e4-b487-03ac5c55f89a.JPG "
+  },
+  {
+    "bldgname": "150 Rivington Street Condominium",
+    "bldgadd": "150 Rivington Street",
+    "block": "00349",
+    "lot": "7503",
+    "mdr": "144669",
+    "bin": "1090811",
+    "communitybd": "3",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/109/54962/Screen_Shot_2019-06-12_at_10.22.12_AM.png "
+  },
+  {
+    "bldgname": "155 East 49th Street Corporation",
+    "bldgadd": "155 East 49th Street",
+    "bldgno": "112",
+    "block": "01304",
+    "lot": "0029",
+    "mdr": "112519",
+    "bin": "1036445",
+    "communitybd": "6",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53944/29981670.jpg "
+  },
+  {
+    "bldgname": "155 Apartment Corp.",
+    "bldgadd": "155 East 73 Street",
+    "bldgno": "155E",
+    "block": "01408",
+    "lot": "0022",
+    "mdr": "101684",
+    "bin": "1043038",
+    "communitybd": "8",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/114/57449/155_East_73rd_St-f5b13e59-dfa7-4c3d-9fa6-c71b9f4e8a7e.JPG "
+  },
+  {
+    "bldgname": "155 EAST 79TH STREET CONDOMINIUM",
+    "bldgadd": "155 East 79th Street",
+    "block": "01508",
+    "lot": "7502",
+    "mdr": "144216",
+    "bin": "1090560",
+    "communitybd": "8",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53987/70329706.jpg "
+  },
+  {
+    "bldgname": "GATSBY HOUSE CONDOMINIUM",
+    "bldgadd": "155 W 71st Street",
+    "bldgno": "155W",
+    "block": "01143",
+    "lot": "7502",
+    "mdr": "100099",
+    "bin": "1070529",
+    "communitybd": "7",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/114/57436/halstead3-5ba14539-e032-4551-b72a-87e6cc1fd713.png "
+  },
+  {
+    "bldgname": "PHOENIX OWNERS CORP.",
+    "bldgadd": "160 EAST 65TH STREET",
+    "block": "01399",
+    "lot": "0033",
+    "mdr": "138967",
+    "bin": "",
+    "communitybd": "",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/20/10107/7306527.jpg "
+  },
+  {
+    "bldgname": "Madison Medical Building",
+    "bldgadd": "161 Madison Avenue",
+    "block": "00862",
+    "lot": "7501",
+    "mdr": "610613",
+    "bin": "1017035",
+    "communitybd": "5",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53813/10399_l.jpg "
+  },
+  {
+    "bldgname": "The Alfred Condominium",
+    "bldgadd": "161 West 61st St",
+    "block": "01132",
+    "lot": "7501",
+    "mdr": "140548",
+    "bin": "1070131",
+    "communitybd": "7",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53814/4805_l.jpg "
+  },
+  {
+    "bldgname": "165 East 72nd Apartment Corp.",
+    "bldgadd": "165 East 72nd Street",
+    "block": "01407",
+    "lot": "0033",
+    "mdr": "138146",
+    "bin": "1042850",
+    "communitybd": "8",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53815/814_l.jpg "
+  },
+  {
+    "bldgname": "The Duane Park Building Condominium",
+    "bldgadd": "166 Duane Street",
+    "block": "00141",
+    "lot": "7504",
+    "mdr": "141875",
+    "bin": "1001531",
+    "communitybd": "1",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53816/22527_l.jpg "
+  },
+  {
+    "bldgname": "166 PERRY STREET CONDOMINIUM",
+    "bldgadd": "166 Perry Street",
+    "block": "00637",
+    "lot": "7508",
+    "mdr": "610685",
+    "bin": "1011994",
+    "communitybd": "2",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53817/62736_l.jpg "
+  },
+  {
+    "bldgname": "HILLSIDE HOMELAWN INC.",
+    "bldgadd": "169-17 Hillside Avenue",
+    "block": "09844",
+    "lot": "0001",
+    "mdr": "",
+    "bin": "4210573",
+    "communitybd": "8",
+    "photo": "https://photos.zillowstatic.com/fp/f24ed3e893d506afbdf6dd785e5db15b-se_large_800_400.webp"
+  },
+  {
+    "bldgname": "174 E. 74 OWNERS CORP.",
+    "bldgadd": "174 E 74th Street",
+    "bldgno": "174E",
+    "block": "01408",
+    "lot": "0040",
+    "mdr": "138056",
+    "bin": "1043047",
+    "communitybd": "8",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/114/57442/imagereader-93854dc0-0360-4d3a-ae7b-3cff1cddb6fe.jpg "
+  },
+  {
+    "bldgname": "176 WEST 87 ST. OWNERS CORP.",
+    "bldgadd": "176 West 87th Street",
+    "block": "01217",
+    "lot": "0064",
+    "mdr": "116889",
+    "bin": "1032218",
+    "communitybd": "7",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53818/1910_l.jpg p"
+  },
+  {
+    "bldgname": "THE CEREZA",
+    "bldgadd": "1790-1792 THIRD AVENUE",
+    "block": "01627",
+    "lot": "7502",
+    "mdr": "144742",
+    "bin": "1090191",
+    "communitybd": "11",
+    "photo": "https://photos.zillowstatic.com/fp/f24ed3e893d506afbdf6dd785e5db15b-se_large_800_400.webp"
+  },
+  {
+    "bldgname": "One Vandam Condominium",
+    "bldgadd": "180 Avenue of the Americas",
+    "block": "00504",
+    "lot": "7501",
+    "mdr": "144253",
+    "bin": "",
+    "communitybd": "2",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53942/86333433.jpg "
+  },
+  {
+    "bldgname": "911 Alwyn Owners Corp.",
+    "bldgadd": "180 West 58th Street",
+    "block": "01010",
+    "lot": "0061",
+    "mdr": "115683",
+    "bin": "1023740",
+    "communitybd": "5",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53820/443_l.jpg "
+  },
+  {
+    "bldgname": "THE 2 NORTHSIDE PIERS CONDOMINIUM",
+    "bldgadd": "2 Northside Piers",
+    "block": "02340",
+    "lot": "7503",
+    "mdr": "383405",
+    "bin": "3397447",
+    "communitybd": "1",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/108/54141/2_Northside_Piers.PNG"
+  },
+  {
+    "bldgname": "THE 20 PINE STREET CONDOMINIUM",
+    "bldgadd": "20 Pine Street",
+    "block": "00044",
+    "lot": "7501",
+    "mdr": "143106",
+    "bin": "1001022",
+    "communitybd": "1",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53825/59436_l.jpg "
+  },
+  {
+    "bldgname": "ROSKAR REALTY",
+    "bldgadd": "20 St Paul's Court",
+    "block": "05080",
+    "lot": "0054",
+    "mdr": "331349",
+    "bin": "3116540",
+    "communitybd": "14",
+    "photo": "https://photos.zillowstatic.com/fp/f24ed3e893d506afbdf6dd785e5db15b-se_large_800_400.webp"
+  },
+  {
+    "bldgname": "PARK SOUTH TENANTS CORP.",
+    "bldgadd": "200 CENTRAL PARK SOUTH",
+    "block": "01030",
+    "lot": "0029",
+    "mdr": "138650",
+    "bin": "",
+    "communitybd": "",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/109/54529/200_Central_Park_South.jpg "
+  },
+  {
+    "bldgname": "200 West End Avenue Condominium",
+    "bldgadd": "200 West End Ave",
+    "block": "01158",
+    "lot": "7506",
+    "mdr": "143015",
+    "bin": "1030352",
+    "communitybd": "7",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53828/61089_l.jpg "
+  },
+  {
+    "bldgname": "201 W. 89 Owners",
+    "bldgadd": "201 West 89th Street",
+    
+    "block": "01237",
+    "lot": "0029",
+    "mdr": "125669",
+    "bin": "1033309",
+    "communitybd": "7",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53830/94800861.jpg "
+  },
+  {
+    "bldgname": "One Essex Crossing Condominium",
+    "bldgadd": "202 Broome Street",
+    "block": "00346",
+    "lot": "7503",
+    "mdr": "145007",
+    "bin": "1089905",
+    "communitybd": "3",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/114/57422/Screen_Shot_2022-08-17_at_9-61d57b63-47fe-40c8-9205-48f24e72cf3b.png "
+  },
+  {
+    "bldgname": "205 Third Avenue Owners'",
+    "bldgadd": "205 Third Avenue",
+    "block": "00899",
+    "lot": "0001",
+    "mdr": "138696",
+    "bin": "1019580",
+    "communitybd": "6",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53832/2535_l.jpg "
+  },
+  {
+    "bldgname": "207 West 79 Street Condominium",
+    "bldgadd": "207 West 79th Street",
+    "block": "01227",
+    "lot": "7501",
+    "mdr": "144557",
+    "bin": "1090527",
+    "communitybd": "7",
+    "photo": " https://halstead.boardpackager.com/default_bldg_thumb.jpg "
+  },
+  {
+    "bldgname": "OCEAN AVENUE APARTMENTS ",
+    "bldgadd": "2080 Ocean Avenue",
+    "block": "06766",
+    "lot": "0051",
+    "mdr": "366983",
+    "bin": "3182050",
+    "communitybd": "14",
+    "photo": "https://photos.zillowstatic.com/fp/f24ed3e893d506afbdf6dd785e5db15b-se_large_800_400.webp"
+  },
+  {
+    "bldgname": "21 EAST 96TH STREET CONDOMINIUM",
+    "bldgadd": "21 East 96th Street",
+    "block": "01602",
+    "lot": "7502",
+    "mdr": "143553",
+    "bin": "1051442",
+    "communitybd": "11",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53834/52784_l.jpg "
+  },
+  {
+    "bldgname": "210 EAST 36th OWNERS CORP.",
+    "bldgadd": "210 East 36th Street",
+    "bldgno": "210E",
+    "block": "00916",
+    "lot": "0055",
+    "mdr": "138143",
+    "bin": "1020200",
+    "communitybd": "6",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/11/5864/29981346.jpg "
+  },
+  {
+    "bldgname": "210 RIVERSIDE TENANTS",
+    "bldgadd": "210 Riverside Drive",
+    "block": "01252",
+    "lot": "0034",
+    "mdr": "114503",
+    "bin": "1034130",
+    "communitybd": "7",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53835/4874_l.jpg "
+  },
+  {
+    "bldgname": "THE SUTTON 57 CONDOMINIUM",
+    "bldgadd": "212 East 57th Street",
+    "block": "01330",
+    "lot": "7501",
+    "mdr": "142786",
+    "bin": "1038595",
+    "communitybd": "6",
+    "photo": "https://photos.zillowstatic.com/fp/f24ed3e893d506afbdf6dd785e5db15b-se_large_800_400.webp"
+  },
+  {
+    "bldgname": "214 River Owners Corp.",
+    "bldgadd": "214 Riverside Drive",
+    "bldgno": "086",
+    "block": "01252",
+    "lot": "0075",
+    "mdr": "129239",
+    "bin": "1034141",
+    "communitybd": "7",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/114/57439/Capture-7b7916e1-ac54-4645-8f80-c81ae8a09200.PNG "
+  },
+  {
+    "bldgname": "215 East 77th St. Condominium",
+    "bldgadd": "215 East 77th Street",
+    
+    "block": "01432",
+    "lot": "7501",
+    "mdr": "133585",
+    "bin": "1044134",
+    "communitybd": "8",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53837/6498_l.jpg "
+  },
+  {
+    "bldgname": "215 WEST 10TH LLC",
+    "bldgadd": "215 WEST 10TH STREET",
+    "block": "00620",
+    "lot": "0041",
+    "mdr": "104589",
+    "bin": "1011195",
+    "communitybd": "2",
+    "photo": "https://photos.zillowstatic.com/fp/f24ed3e893d506afbdf6dd785e5db15b-se_large_800_400.webp"
+  },
+  {
+    "bldgname": "Opera Owners",
+    "bldgadd": "2166 Broadway",
+    "bldgno": "034",
+    "block": "01168",
+    "lot": "0022",
+    "mdr": "127666",
+    "bin": "1030861",
+    "communitybd": "7",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/14/7262/31611246.jpg "
+  },
+  {
+    "bldgname": "221 EAST 78TH TENANTS CORP.",
+    "bldgadd": "221 E 78th Street",
+    "bldgno": "221E",
+    "block": "01433",
+    "lot": "0007",
+    "mdr": "134892",
+    "bin": "1044166",
+    "communitybd": "8",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53947/7664363.jpg "
+  },
+  {
+    "bldgname": "GRAMERCY 222 RESIDENTS CORP.",
+    "bldgadd": "222 Park Avenue South",
+    
+    "block": "00847",
+    "lot": "0038",
+    "mdr": "139544",
+    "bin": "1016151",
+    "communitybd": "5",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53840/1096_l.jpg "
+  },
+  {
+    "bldgname": "Rutherford Tenants Corp.",
+    "bldgadd": "230 East 15th Street",
+    "bldgno": "230",
+    "block": "00896",
+    "lot": "0032",
+    "mdr": "138202",
+    "bin": "1019519",
+    "communitybd": "6",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/114/57432/Screen_Shot_2022-08-17_at_2-9bdd96c9-78d1-47b1-9ba7-aed5d725217b.png "
+  },
+  {
+    "bldgname": "230 East 73rd Owners Corp.",
+    "bldgadd": "230 East 73rd Street",
+    "block": "01427",
+    "lot": "0030",
+    "mdr": "117963",
+    "bin": "1043975",
+    "communitybd": "8",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/114/57430/8c2ca51372550acfd63cf1b65176efe7-se_extra_large_1500_800-711c3b83-7519-42ab-a454-cf1f3372e12b.jpg "
+  },
+  {
+    "bldgname": "The Club at Turtle Bay",
+    "bldgadd": "236 East 47th Street",
+    "block": "01320",
+    "lot": "7505",
+    "mdr": "140904",
+    "bin": "1037604",
+    "communitybd": "6",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53846/10269_l.jpg "
+  },
+  {
+    "bldgname": "URBANA LTD",
+    "bldgadd": "236-246 West 17th street",
+    "block": "00766",
+    "lot": "7504",
+    "mdr": "143171",
+    "bin": "1087766",
+    "communitybd": "4",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/8/4432/3141735.jpg "
+  },
+  {
+    "bldgname": "242 Broome Street Condominium",
+    "bldgadd": "242 Broome Street",
+    "block": "00409",
+    "lot": "7502",
+    "mdr": "144542",
+    "bin": "1090581",
+    "communitybd": "3",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/110/55364/image001.jpg "
+  },
+  {
+    "bldgname": "246 West 17th Street Condominium",
+    "bldgadd": "246 West 17th Street",
+    "block": "00766",
+    "lot": "7504",
+    "mdr": "143171",
+    "bin": "1087766",
+    "communitybd": "4",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/8/4432/3141735.jpg "
+  },
+  {
+    "bldgname": "Howard House",
+    "bldgadd": "246 West End Avenue",
+    "bldgno": "246W",
+    "block": "01163",
+    "lot": "0001",
+    "mdr": "118253",
+    "bin": "1030403",
+    "communitybd": "7",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/14/7203/4232595.jpg bp"
+  },
+  {
+    "bldgname": "Greenwich House Holding Corp.",
+    "bldgadd": "247 West 12th Street",
+    "block": "00615",
+    "lot": "0086",
+    "mdr": "140083",
+    "bin": "1011053",
+    "communitybd": "2",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53849/5931_l.jpg "
+  },
+  {
+    "bldgname": "25 Park Row Condominium",
+    "bldgadd": "25 Park Row",
+    "block": "00090",
+    "lot": "7504",
+    "mdr": "144947",
+    "bin": "",
+    "communitybd": "1",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/114/57424/Building_Photo_-_25_Park_Row_-4107fc4a-78d2-4bfa-8d27-7934adf79eb8.jpeg "
+  },
+  {
+    "bldgname": "27TH STREET APARTMENTS CORP",
+    "bldgadd": "250 West 27th Street",
+    "bldgno": "250W",
+    "block": "00776",
+    "lot": "0065",
+    "mdr": "139528",
+    "bin": "1014241",
+    "communitybd": "5",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/114/57437/snip-b676a80f-e943-46e7-9d13-93e5823f872a.PNG "
+  },
+  {
+    "bldgname": "254 Park Avenue South Condo",
+    "bldgadd": "254 Park Avenue South",
+    "block": "00849",
+    "lot": "7508",
+    "mdr": "139478",
+    "bin": "1016212",
+    "communitybd": "5",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53850/9994_l.jpg "
+  },
+  {
+    "bldgname": "The Cornwall",
+    "bldgadd": "255 West 90th Street",
+    "bldgno": "255W",
+    "block": "01238",
+    "lot": "0010",
+    "mdr": "113803",
+    "bin": "1033555",
+    "communitybd": "7",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/48/24341/42995047.jpg "
+  },
+  {
+    "bldgname": "269 West 72nd Owners Corp.",
+    "bldgadd": "269 West 72nd Street",
+    "block": "01164",
+    "lot": "0002",
+    "mdr": "125348",
+    "bin": "1030505",
+    "communitybd": "7",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53852/4873_l.jpg "
+  },
+  {
+    "bldgname": "270 West End Tenants Corp.",
+    "bldgadd": "270 West End Avenue", 
+    "block": "01164",
+    "lot": "0063",
+    "mdr": "129777",
+    "bin": "1030534",
+    "communitybd": "7",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53853/1723_l.jpg "
+  },
+  {
+    "bldgname": "279 Central Park West Condominium",
+    "bldgadd": "279 Central Park West",
+    "block": "01202",
+    "lot": "7501",
+    "mdr": "141173",
+    "bin": "1031513",
+    "communitybd": "7",
+    "photo": " https://prod-assets.boardpackager.com/building_docs/107/53854/8766_l.jpg "
+  }
+]
